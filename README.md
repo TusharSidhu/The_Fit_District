@@ -9,6 +9,7 @@ Below is the Entity Relationship Diagram for the Database The_Fit_District:
 ![TFD ER Diagram](<Assets/The_Fit_District ER Diagram.png>)
 ---
 ### File Structure
+```
 The_Fit_District/
 │
 ├── Asset/
@@ -24,3 +25,4 @@ The_Fit_District/
 │
 └── SQL/
     └── The_Fit_District-Database & Table Schema.sql
+```
