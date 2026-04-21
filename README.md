@@ -16,6 +16,7 @@ The system is organized around key fitness business operations:
 * **Trainer Management** — Trainer allocation and professional data
 * **Subscription Handling** — Membership plans and active subscriptions
 * **Payment Tracking** — Transaction records and payment history
+* **Attendance Tracking** — Attendance Records Date, Checkin Time & Checkout Time
 
 Each module is interconnected to reflect real-world dependencies within a multi-branch fitness ecosystem.
 
@@ -28,8 +29,9 @@ The system simulates a typical gym member lifecycle:
 1. Members register at a specific branch
 2. They select a membership plan
 3. Subscriptions are created and tracked
-4. Trainers may be assigned for guidance
-5. Payments are processed and recorded
+4. Attendance is taken digitally. Checkin & checkout time is tracked.
+5. Trainers may be assigned for guidance
+6. Payments are processed and recorded
 
 This workflow mirrors the operational flow of real-world fitness centers.
 
@@ -82,6 +84,7 @@ The Entity Relationship (ER) Diagram below illustrates how these entities intera
 ---
 
 ## 📈 Key Insights You Can Explore
+* Member consistency using Attendance checkin & checkout time
 * Member enrollment trends across branches
 * Popular membership plans
 * Revenue and payment patterns
