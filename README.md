@@ -158,17 +158,16 @@ The goal of this project is to bridge the gap between **database theory and real
 
 ## 🚀 Future Enhancements
 
-* Add advanced analytical SQL queries
 * Build dashboards (Excel / Power BI)
 
 ---
 
 ## 📜 License
 
-This project is intended for educational and analytical purposes only.
+This project is intended for **educational and analytical purposes** only.
 
 ---
 
 ## ✍️ Final Note
 
-The Fit District is more than just a dataset — it represents a structured model of how modern fitness businesses operate, making it a strong foundation for learning data analytics, database design, and business intelligence.
+The Fit District is more than just a dataset - it represents a structured model of how modern fitness businesses operate, making it a strong foundation for learning data analytics, database design, and business intelligence.
