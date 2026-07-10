@@ -1,5 +1,12 @@
 # 🏋️ The Fit District — United by Fitness
 
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Excel](https://img.shields.io/badge/Excel-Analysis-green)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+![Repo Size](https://img.shields.io/github/repo-size/TusharSidhu/The_Fit_District)
+![Last Commit](https://img.shields.io/github/last-commit/TusharSidhu/The_Fit_District)
+
 ## 📌 Overview
 
 **The Fit District** is a fitness-focused gym chain based in Maharashtra, with multiple branches operating across the state. It offers a structured and accessible environment for individuals looking to improve their health, strength, and overall fitness. The gym provides a range of facilities including modern workout equipment, strength and conditioning zones, and guided training programs tailored to different fitness levels.
