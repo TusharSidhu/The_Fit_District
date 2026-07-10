@@ -70,8 +70,10 @@ The_Fit_District
 │   ├── Subscriptions.txt
 │   └── Trainers.txt
 │
-└── SQL/                       # Database schema and query files
-    └── The_Fit_District-Database & Table Schema.sql
+├── SQL/                       # Database schema and query files
+│    └── The_Fit_District-Database & Table Schema.sql
+│    └── TFD Analytical Questions.sql
+│
 ```
 
 ---
