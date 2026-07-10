@@ -97,17 +97,39 @@ The_Fit_District
 │   ├── Subscriptions.txt
 │   └── Trainers.txt
 │
-├── SQL/                       # Database schema and query files
-│    └── The_Fit_District-Database & Table Schema.sql
-│    └── TFD Analytical Questions.sql
+├── SQL/        # Database schema and query files
+│   ├── The_Fit_District-Database & Table Schema.sql
+│   └── TFD Analytical Questions.sql
 │
+└── README.md
 ```
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool            | Purpose                            |
+| --------------- | ---------------------------------- |
+| SQL             | Data modeling, querying, analytics |
+| Microsoft Excel | Data cleaning & dashboarding       |
+| Power BI        | Interactive data visualization     |
+| Python          | Automated generation of a dataset  |
+| Markdown        | Documentation                      |
 
 ---
 
 ## 🧠 Database Design
 
-The database follows a relational model, where entities such as **Attendance, Branches, Members, Trainers, Plans, Subscriptions, and Payments** are connected through defined relationships.
+The database follows a **relational model**, connecting entities such as:
+
+* Members
+* Branches
+* Plans
+* Subscriptions
+* Payments
+* Attendance
+
+These entities are linked through defined relationships to ensure data integrity and efficient querying.
 
 ### 📌 ER Diagram
 
