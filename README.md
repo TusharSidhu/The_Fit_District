@@ -7,6 +7,26 @@
 ![Repo Size](https://img.shields.io/github/repo-size/TusharSidhu/The_Fit_District)
 ![Last Commit](https://img.shields.io/github/last-commit/TusharSidhu/The_Fit_District)
 
+---
+
+## 📚 Table of Contents
+- Overview
+- Core Functional Areas
+- System Workflow
+- Purpose & Use Cases
+- Project Structure
+- Tech Stack
+- Database Design
+- Dashboards
+- Key Insights
+- Key Metrics
+- Sample Insights
+- Objective
+- Future Enhancements
+- License
+
+---
+
 ## 📌 Overview
 
 **The Fit District** is a fitness-focused gym chain based in Maharashtra, with multiple branches operating across the state. It offers a structured and accessible environment for individuals looking to improve their health, strength, and overall fitness. The gym provides a range of facilities including modern workout equipment, strength and conditioning zones, and guided training programs tailored to different fitness levels.
